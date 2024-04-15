@@ -21,8 +21,8 @@ LoveConnect is a delightful web platform where you can connect with your loved o
 ## Get Started
 To run LoveConnect locally, follow these steps:
 1. Clone the repository: git clone https://github.com/yourusername/loveconnect.git
-2. Navigate to the project directory: cd loveconnect
-3. Install dependencies: npm install
+2. Navigate to the project directory: cd Project_NMS
+3. Install dependencies: npm install 
 4. Start the server: npm run dev
 5. Access the application in your browser at http://localhost:3000
 
