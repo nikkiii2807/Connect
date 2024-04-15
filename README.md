@@ -3,7 +3,7 @@
 Welcome to Connect, a real-time chat application designed to bring people closer to their loved ones!
 
 ## Description
-LoveConnect is a delightful web platform where you can connect with your loved ones in real-time through seamless chat conversations. Whether you're miles apart or just in separate rooms, LoveConnect bridges the distance with its intuitive interface and instant messaging capabilities.
+Connect is a delightful web platform where you can connect with your loved ones in real-time through seamless chat conversations. Whether you're miles apart or just in separate rooms, LoveConnect bridges the distance with its intuitive interface and instant messaging capabilities.
 
 ## Features
 - Real-time chat: Connect instantly with your loved ones and engage in meaningful conversations.
