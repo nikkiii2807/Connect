@@ -3,7 +3,7 @@
 Welcome to Connect, a real-time chat application designed to bring people closer to their loved ones!
 
 ## Description
-Connect is a delightful web platform where you can connect with your loved ones in real-time through seamless chat conversations. Whether you're miles apart or just in separate rooms, LoveConnect bridges the distance with its intuitive interface and instant messaging capabilities.
+Connect is a delightful web platform where you can connect with your loved ones in real-time through seamless chat conversations. Whether you're miles apart or just in separate rooms, Connect bridges the distance with its intuitive interface and instant messaging capabilities.
 
 ## Features
 - Real-time chat: Connect instantly with your loved ones and engage in meaningful conversations.
@@ -19,7 +19,7 @@ Connect is a delightful web platform where you can connect with your loved ones 
 - JavaScript
 
 ## Get Started
-To run LoveConnect locally, follow these steps:
+To run Connect locally, follow these steps:
 1. Clone the repository: git clone (https://github.com/nikkiii2807/project_nms.git)
 2. Navigate to the project directory: cd Project_NMS
 3. Install dependencies: npm install 
