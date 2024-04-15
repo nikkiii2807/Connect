@@ -1,6 +1,6 @@
-# Connect 💕
+# Connect 🌍
 
-Welcome to LoveConnect, a real-time chat application designed to bring people closer to their loved ones!
+Welcome to Connect, a real-time chat application designed to bring people closer to their loved ones!
 
 ## Description
 LoveConnect is a delightful web platform where you can connect with your loved ones in real-time through seamless chat conversations. Whether you're miles apart or just in separate rooms, LoveConnect bridges the distance with its intuitive interface and instant messaging capabilities.
@@ -20,7 +20,7 @@ LoveConnect is a delightful web platform where you can connect with your loved o
 
 ## Get Started
 To run LoveConnect locally, follow these steps:
-1. Clone the repository: git clone https://github.com/yourusername/loveconnect.git
+1. Clone the repository: git clone (https://github.com/nikkiii2807/project_nms.git)
 2. Navigate to the project directory: cd Project_NMS
 3. Install dependencies: npm install 
 4. Start the server: npm run dev
