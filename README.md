@@ -1,4 +1,4 @@
-# LoveConnect 💕
+# Connect 💕
 
 Welcome to LoveConnect, a real-time chat application designed to bring people closer to their loved ones!
 
@@ -9,7 +9,7 @@ LoveConnect is a delightful web platform where you can connect with your loved o
 - Real-time chat: Connect instantly with your loved ones and engage in meaningful conversations.
 - User-friendly interface: Easy to navigate and pleasing to the eye, ensuring a delightful user experience.
 - Seamless connectivity: Powered by Node.js, Express, and Socket.IO for robust and reliable communication.
-- Collaborative effort: Developed in collaboration with Miral ([GitHub](https://github.com/miral-shah)) and Sakshi ([GitHub](https://github.com/sakshi2912)), making it a product of teamwork and friendship.
+- Collaborative effort: Developed in collaboration with Miral ([GitHub](https://github.com/miral0312)) and Sakshi ([GitHub](https://github.com/sakshipatel7)), making it a product of teamwork and friendship.
 - Quick development: Created within a short timeframe, demonstrating the efficiency of teamwork and dedication.
 
 ## Technologies Used
