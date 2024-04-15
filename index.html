@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Connect</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <section class="chat__section">
+        <div class="brand">
+            <img height="40" src="image1.png" alt="">
+            <div>
+                <h1>Connect</h1>
+                <h3>Connect with your loved ones</h3>
+            </div>
+        </div>
+        <div class="message__area"></div>
+        <div class="message__input">
+            <textarea id="textarea" cols="30" rows="1" placeholder="Write a message..."></textarea>
+            <img id="sendButton" src="button.jpeg" alt="Send">
+        </div>
+    </section>
+
+    <script src="/socket.io/socket.io.js"></script>
+    
+    <script src="script.js"></script>
+</body>
+</html>
